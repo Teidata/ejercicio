@@ -2,9 +2,9 @@ $(document).ready(function() {
 
 // PhotoSphere ------------------
 	var PSV = PhotoSphereViewer({
-	  panorama:  'http://www.sergioacosta.es/prueba/data/Bryce-Canyon-National-Park-Mark-Doliner.jpg',
+	  panorama:  '../data/Bryce-Canyon-National-Park-Mark-Doliner.jpg',
 	  container: 'photosphere',
-	  loading_img: 'http://www.sergioacosta.es/prueba/data/giphy.gif',
+	  loading_img: '../data/giphy.gif',
 	});
 
 // CookieBar ------------------

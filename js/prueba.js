@@ -2,9 +2,9 @@ $(document).ready(function() {
 
 // PhotoSphere ------------------
 	var PSV = PhotoSphereViewer({
-	  panorama:  '../data/Bryce-Canyon-National-Park-Mark-Doliner.jpg',
+	  panorama:  'data/Bryce-Canyon-National-Park-Mark-Doliner.jpg',
 	  container: 'photosphere',
-	  loading_img: '../data/giphy.gif',
+	  loading_img: 'data/giphy.gif',
 	});
 
 // CookieBar ------------------

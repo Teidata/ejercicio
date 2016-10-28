@@ -66,7 +66,7 @@ h6 {
   left: auto !important;
   bottom: 200px;
   right: 200px;
-  background: #111 url(http://www.sergioacosta.es/prueba/data/cookiem.png) 245px 45px no-repeat !important;
+  background: #111 url(../data/cookiem.png) 245px 45px no-repeat !important;
 }
 .cookie-message p { color: #FFF } !important;
 .cookie-message a { color: #2AF } !important;

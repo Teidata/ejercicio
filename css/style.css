@@ -1,0 +1,72 @@
+/* Damos tamaño al contenedor */
+body {
+	background-color: #D8D8D8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Montserrat, Sans-serif;
+    font-weight: 600;
+    letter-spacing: -3px;
+    text-shadow: 1px 1px 0 #ddd, 0 0 15px #eee
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    color: #222;
+    text-decoration: none
+}
+
+h1 {
+    font-size: 2.4em;
+    margin: 0
+}
+
+h2 {
+    font-size: 2.2em
+}
+
+h3 {
+    font-size: 2em
+}
+
+h4 {
+    font-size: 1.6em;
+    letter-spacing: -1.5px
+}
+
+h6 {
+    color: #777
+}
+.pagina {
+	background-color: #D8D8D8;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#photosphere {
+  width: 1200px;
+  height: 800px;
+  background: ##D8D8D8;
+}
+
+/* CookieBar - Opción 3: Personalizar apariencia */
+.cookie-message {
+  width: 200px;
+  height: 90px;
+  top: auto !important;
+  left: auto !important;
+  bottom: 200px;
+  right: 200px;
+  background: #111 url(http://www.sergioacosta.es/prueba/data/cookiem.png) 245px 45px no-repeat !important;
+}
+.cookie-message p { color: #FFF } !important;
+.cookie-message a { color: #2AF } !important;
